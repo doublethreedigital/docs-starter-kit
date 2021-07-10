@@ -1,0 +1,17 @@
+export_paths:
+  - content
+  - public/css/site.css
+  - public/js/site.js
+  - public/img/discord.svg
+  - public/img/github.svg
+  - resources/blueprints
+  - resources/css/site.css
+  - resources/js/site.js
+  - resources/views
+  - package.json
+  - README.md
+  - webpack.mix.js
+  - screenshot.png
+  - upgrade-cli-notice.php
+dependencies:
+  statamic/ssg: ^0.7.0
